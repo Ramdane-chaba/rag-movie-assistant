@@ -167,6 +167,6 @@ Projet réalisé par Ramdane CHABA et Ouissem AOUIMEUR.
 
 ---
 
-# 👨‍💻 Ecadré par 
+# 👨‍💻 Ecadrant 
 
 Hakim HORAIRY
