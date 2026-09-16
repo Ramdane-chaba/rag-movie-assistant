@@ -163,7 +163,7 @@ Llama 3.3 70B via Groq
 
 # 👨‍💻 Auteurs
 
-Projet réalisé par Ramdane CHABA et Ouissem AOUIMEUR.
+Projet réalisé par Ramdane CHABA.
 
 ---
 
